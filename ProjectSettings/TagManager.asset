@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Hazard
+  - Collectible
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -11,12 +14,12 @@ TagManager:
   - Destructable
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - Collectibles
+  - No Collisions
+  - Shot
   - 
   - 
   - 
